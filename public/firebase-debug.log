@@ -1,0 +1,26 @@
+[debug] [2018-01-05T04:00:11.526Z] ----------------------------------------------------------------------
+[debug] [2018-01-05T04:00:11.530Z] Command:       /usr/local/Cellar/node/8.9.1/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-01-05T04:00:11.530Z] CLI Version:   3.16.0
+[debug] [2018-01-05T04:00:11.530Z] Platform:      darwin
+[debug] [2018-01-05T04:00:11.531Z] Node Version:  v8.9.1
+[debug] [2018-01-05T04:00:11.532Z] Time:          Thu Jan 04 2018 21:00:11 GMT-0700 (MST)
+[debug] [2018-01-05T04:00:11.532Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-01-05T04:00:11.556Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-01-05T04:00:11.556Z] > authorizing via signed-in user
+[debug] [2018-01-05T04:00:11.559Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/js-clock-758c9  
+  
+ Thu Jan 04 2018 21:00:11 GMT-0700 (MST)
+[debug] [2018-01-05T04:00:13.055Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-05T04:00:13.057Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/js-clock-758c9/tokens  
+  
+ Thu Jan 04 2018 21:00:13 GMT-0700 (MST)
+[debug] [2018-01-05T04:00:13.433Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'js-clock-758c9'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing public directory for upload...
+[debug] [2018-01-05T04:00:13.742Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/js-clock-758c9/uploads/-L23TTxeDxTsYG8LCMtO?fileCount=3&message=  
+  
+ Thu Jan 04 2018 21:00:13 GMT-0700 (MST)
