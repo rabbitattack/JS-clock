@@ -7,3 +7,4 @@
 - Will spend time learning more about the CSS when I am not so heavily focused on the JS
 - More to come!
 - Deployed link [here](https://js-clock-758c9.firebaseapp.com/)
+- This is a change
